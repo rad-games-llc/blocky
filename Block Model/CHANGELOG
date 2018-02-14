@@ -1,3 +1,6 @@
+0.4.0
+  * scaled to just inside ~2m cube, adjusted to axes (facing pos y, I believe)
+
 0.3.0
   * subdivided/smoothed, higher poly
 
